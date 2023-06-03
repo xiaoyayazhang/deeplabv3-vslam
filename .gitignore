@@ -1,0 +1,5 @@
+img/
+model_data/
+output/
+VOCdevkit/
+__pycache__/
